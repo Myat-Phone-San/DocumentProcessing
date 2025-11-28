@@ -347,7 +347,7 @@ def process_image_and_display(original_image_pil, document_type, unique_key_suff
 
 # --- Main App Body ---
 
-st.title("📄 Myanmar Document Extractor (AI OCR)")
+st.title("📄Document Extractor (AI OCR)")
 st.caption("Select your document type and use the camera or upload a file for structured data extraction via the Gemini API.")
 
 # Document Type Selector
