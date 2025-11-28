@@ -9,7 +9,7 @@ from google.genai import types
 
 # --- 0. Configuration and Initialization ---
 st.set_page_config(
-    page_title="📄 Myanmar Document Extractor (AI OCR)",
+    page_title="📄Document Extractor (AI OCR)",
     layout="wide"
 )
 
